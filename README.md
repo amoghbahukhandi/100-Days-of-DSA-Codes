@@ -1,1 +1,1 @@
-# 100-Days-of-DSA-Codes
+# 100-days-of-DSA-
